@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5984
     wikipedia: http://fr.wikipedia.org/wiki/Georges_Darien
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15297#Le-voleur
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-03-09'
 gutenberg_type: Text
